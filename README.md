@@ -17,7 +17,7 @@ JXUG の素材を公開します。
 
 ### JXUG ロゴ Connpass 用
 
-ぴったりなるようにサイズ調整済みです。イベント立てる方はご利用ください。直リンクする場合は `https://github.com/ytabuchi/JXUG_Materials/blob/master/JXUG_Logo_Connpass.png` です。
+ぴったりなるようにサイズ調整済みです。イベント立てる方はご利用ください。直リンクする場合は `https://raw.githubusercontent.com/ytabuchi/JXUG_Materials/master/JXUG_Logo_Connpass.png` です。
 
 ![Connpass用](https://github.com/ytabuchi/JXUG_Materials/blob/master/JXUG_Logo_Connpass.png)
 
