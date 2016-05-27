@@ -1,5 +1,6 @@
 # JXUG_Materials
-JXUG の素材です。
+
+JXUG の素材を公開します。
 
 ### 壁紙
 
